@@ -9,12 +9,14 @@ body{
 }
 
 .font-primary{
-    color: #00ABAE
+    color: #00ABAE;
+    text-decoration:none;
 }
 
 .title-icon{
     font-size: 20px; 
     font-weight: bold; 
+    text-decoration: none;
 }
 
 p{
@@ -99,7 +101,4 @@ PROJECT
 
 #project .card-title{
     font-weight: bold;
-}
-img {
-    width: 117%;
 }
